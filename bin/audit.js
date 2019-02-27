@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const { exec } = require('child_process');
 
 module.exports = exec('yarn audit --summary', (error, stdout) => {
