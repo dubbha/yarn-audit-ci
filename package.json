@@ -1,6 +1,6 @@
 {
     "name": "@dubbha/yarn-audit-cicd",
-    "version": "7.0.0",
+    "version": "7.1.0",
     "description": "yarn audit wrapper for ci/cd",
     "license": "MIT",
     "repository": "dubbha/yarn-audit-cicd",
