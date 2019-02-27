@@ -5,7 +5,7 @@
     "license": "MIT",
     "repository": "dubbha/yarn-audit-cicd",
     "bin": {
-        "yarn-audit-cicd": "audit.js"
+        "yarn-audit-cicd": "bin/audit.js"
     },
     "keywords": [
         "yarn",
