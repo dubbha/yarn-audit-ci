@@ -4,7 +4,9 @@
     "description": "yarn audit wrapper for ci/cd",
     "license": "MIT",
     "repository": "dubbha/yarn-audit-cicd",
-    "main": "index.js",
+    "bin": {
+        "yarn-audit-cicd": "audit.js"
+    },
     "keywords": [
         "yarn",
         "audit",
