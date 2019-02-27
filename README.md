@@ -7,21 +7,16 @@ CI-friendly yarn audit wrapper
 ## Install
 
 ```
-$ npm install @dubbha/yarn-audit-cicd
+$ yarn add @dubbha/yarn-audit-ci --dev
 ```
 
 ## Usage
 
-Use directly:
 ```js
-const audit = require('@dubbha/yarn-audit-cicd');
+// package.json
 
-audit();  // default: fail on Critical, warn on High vulnarabilities
-```
-
-Use in package.json:
-```js
 "scripts": {
-    "build": "npm-run-all @dubbha/yarn-audit-cicd ..."
+    "audit": "yarn-audit-cicd",
+    "build": "npm-run-all yarn-audit-cicd ..."
 },
 ```
