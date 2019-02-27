@@ -1,8 +1,8 @@
-# @dubbha/yarn-audit-cicd
+# @dubbha/yarn-audit-ci
 
-![npm (scoped)](https://img.shields.io/npm/v/@dubbha/yarn-audit-cicd.svg)
+![npm (scoped)](https://img.shields.io/npm/v/@dubbha/yarn-audit-ci.svg)
 
-CI/CD-friendly yarn audit wrapper
+CI-friendly yarn audit wrapper
 
 ## Install
 
