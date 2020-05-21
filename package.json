@@ -3,7 +3,8 @@
   "version": "1.1.0",
   "description": "yarn audit wrapper for ci",
   "bin": {
-    "yarn-audit-ci": "bin/audit.js"
+    "yarn-audit-ci": "bin/audit.js",
+    "yaudit": "bin/audit.js"
   },
   "keywords": [
     "yarn",
