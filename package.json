@@ -1,19 +1,24 @@
 {
-    "name": "yarn-audit-ci",
-    "version": "1.0.1",
-    "description": "yarn audit wrapper for ci",
-    "license": "MIT",
-    "repository": "dubbha/yarn-audit-ci",
-    "bin": {
-        "yarn-audit-ci": "bin/audit.js"
-    },
-    "keywords": [
-        "yarn",
-        "audit",
-        "ci",
-        "cd",
-        "ci/cd",
-        "wrapper",
-        "exit code"
-    ]
+  "name": "yarn-audit-ci",
+  "version": "1.0.1",
+  "description": "yarn audit wrapper for ci",
+  "bin": {
+    "yarn-audit-ci": "bin/audit.js"
+  },
+  "keywords": [
+    "yarn",
+    "audit",
+    "ci",
+    "cd",
+    "ci/cd",
+    "wrapper",
+    "exit code"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dubbha/yarn-audit-ci.git"
+  },
+  "homepage": "https://github.com/dubbha/yarn-audit-ci",
+  "author": "Oleksiy Dubovyk",
+  "license": "MIT"
 }

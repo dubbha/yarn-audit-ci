@@ -1,4 +1,4 @@
-# @dubbha/yarn-audit-ci
+# yarn-audit-ci
 
 [![npm](https://img.shields.io/npm/v/yarn-audit-ci.svg)](https://www.npmjs.com/package/yarn-audit-ci)
 
