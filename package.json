@@ -1,5 +1,5 @@
 {
-    "name": "@dubbha/yarn-audit-ci",
+    "name": "yarn-audit-ci",
     "version": "1.0.1",
     "description": "yarn audit wrapper for ci/cd",
     "license": "MIT",
