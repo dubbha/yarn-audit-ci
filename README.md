@@ -71,7 +71,7 @@ In `package.json` in combination with the [yall-scripts](https://github.com/dubb
 },
 
 // console
-$ yarn check
+$ yarn run check
 ```
 If you only care for critical issues, you may call it directly:
 ```js
@@ -83,5 +83,5 @@ If you only care for critical issues, you may call it directly:
 },
 
 // console
-$ yarn check
+$ yarn run check
 ```
