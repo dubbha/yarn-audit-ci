@@ -1,9 +1,9 @@
 {
     "name": "yarn-audit-ci",
     "version": "1.0.1",
-    "description": "yarn audit wrapper for ci/cd",
+    "description": "yarn audit wrapper for ci",
     "license": "MIT",
-    "repository": "dubbha/yarn-audit-cicd",
+    "repository": "dubbha/yarn-audit-ci",
     "bin": {
         "yarn-audit-ci": "bin/audit.js"
     },
@@ -13,6 +13,7 @@
         "ci",
         "cd",
         "ci/cd",
-        "dubbha"
+        "wrapper",
+        "exit code"
     ]
 }
